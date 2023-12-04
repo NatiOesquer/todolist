@@ -1,0 +1,38 @@
+.task-form {
+    font-family: 'Glass Antiqua', cursive;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.task-input {
+    font-family: 'Glass Antiqua', cursive;
+    padding: 14px 32px 14px 16px;
+    background-color: rgb(157, 252, 171);
+    border-radius: 15px;
+    border: 2px solid #078007;
+    outline: none;
+    width: 350px;
+    font-size: 18px;
+}
+
+.task-button {
+    font-family: 'Glass Antiqua', cursive;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    outline: none;
+    background: #069335;
+    color: #fff;
+    text-transform: capitalize;
+    margin: 15px;
+}
+
+.task-button:hover {
+    background: #0b4e27;
+    transition: .5s;
+}

@@ -1,0 +1,48 @@
+.container-notes {
+    font-family: 'Glass Antiqua', cursive;
+    background: rgb(199, 231, 110);
+    box-shadow: -7px 7px 20px rgb(61, 59, 59);
+    width: 600px;
+    min-height: 500px;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.header-notes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.monster-notes {
+    width: 25%;
+}
+
+.container-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-notes {
+    font-family: 'Glass Antiqua', cursive;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(51, 68, 4);
+    outline: none;
+    width: 500px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.container-icono {
+    display: flex;
+    float: right;
+}
+
+.icono-notes {
+    width: 50%;
+    margin-top: 20px;
+}

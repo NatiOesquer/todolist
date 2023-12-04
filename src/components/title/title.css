@@ -1,0 +1,11 @@
+.container-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.img-title {
+    width: 50%;
+    border-radius: 50px;
+}

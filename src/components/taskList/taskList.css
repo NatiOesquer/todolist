@@ -1,0 +1,7 @@
+.tasks-list-container {
+    font-family: 'Glass Antiqua', cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15px;
+}

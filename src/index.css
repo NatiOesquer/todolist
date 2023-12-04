@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Glass Antiqua', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: lemonchiffon;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
